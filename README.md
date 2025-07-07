@@ -8,10 +8,10 @@
 
 ## 🔧 Tech Stack
 
-- **Languages:** JavaScript, HTML, CSS, G-code
+- **Languages:** JavaScript, Python, Go (Golang), Ruby, HTML, CSS, G-code
 - **Frameworks & Libraries:** React, Node.js, Express, Tailwind CSS
 - **Databases:** MongoDB, Firebase
-- **Tools:** Git, GitHub, OctoPrint API, Raspberry Pi
+- **Tools:** Git, GitHub, OctoPrint API, Raspberry Pi, AWS (EC2, S3)
 - **Other Interests:** FDM 3D printing, AV editing, hardware repair
 
 ---
